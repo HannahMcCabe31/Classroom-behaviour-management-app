@@ -1,1 +1,2 @@
 # eggcellent-achievements-react-app
+This project demonstrates my first venture into React, when my team and I decided to create a new tool for classroom behavior management - the Eggcellent Achievements app. When students exhibit positive behavior, their names appear as eggs on the screen, creating a unique reward system. I plan to continue developing this app, introducing a counter for additional positive actions or behaviour throughout a lesson or a day that gradually cracks open the eggs. Stay tuned for more exciting updates!
